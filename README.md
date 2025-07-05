@@ -50,6 +50,6 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 ## Ressources
-[PokeAPI](https://pokeapi.co/docs/v2)
-[Model](https://www.figma.com/community/file/979132880663340794)
-[Flaticon](https://www.flaticon.com/fr/icones-gratuites/eclat): Éclat icônes créées par Freepik - Flaticon
+- [PokeAPI](https://pokeapi.co/docs/v2)
+- [Model](https://www.figma.com/community/file/979132880663340794)
+- [Flaticon](https://www.flaticon.com/fr/icones-gratuites/eclat): Éclat icônes créées par Freepik - Flaticon
